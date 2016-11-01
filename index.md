@@ -22,8 +22,8 @@ title: RuBees Cheat Sheet
 * `-`
 * `*`
 * `/`
-* [`to_s`](https://ruby-doc.org/core-2.3.1/Fixnum.html#method-i-to_s)
 * `%`
+* [`to_s`](https://ruby-doc.org/core-2.3.1/Fixnum.html#method-i-to_s)
 </div>
 
 
