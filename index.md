@@ -6,7 +6,7 @@ title: RuBees Cheat Sheet
 <div id="cheatsheet-wrapper">
 
 <div class="class-method-list" markdown="1">
-### [Top level](#cheatsheet-wrapper)
+### [Global methods](#cheatsheet-wrapper)
 
 * `p`
 * `puts`
