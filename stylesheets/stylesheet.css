@@ -449,3 +449,7 @@ Small Device Styles
 .class-method-list li {
     list-style-type: none;
 }
+
+.class-method-list h3 a {
+    color: #373737;
+}

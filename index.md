@@ -6,7 +6,7 @@ title: RuBees Cheat Sheet
 <div id="cheatsheet-wrapper">
 
 <div class="class-method-list" markdown="1">
-### Top level
+### [Top level](#cheatsheet-wrapper)
 
 * `p`
 * `puts`
@@ -16,7 +16,7 @@ title: RuBees Cheat Sheet
 </div>
 
 <div class="class-method-list" markdown="1">
-### Numeric (Integer, Float)
+### [Numbers (Integer, Float)](http://ruby-for-beginners.rubymonstas.org/built_in_classes/numbers.html)
 
 * [`+`](https://ruby-doc.org/core-2.3.1/Fixnum.html#method-i-2B)
 * `-`
@@ -28,7 +28,7 @@ title: RuBees Cheat Sheet
 
 
 <div class="class-method-list" markdown="1">
-### String
+### [String](http://ruby-for-beginners.rubymonstas.org/built_in_classes/strings.html)
 
 - `+`
 - `*`
@@ -42,13 +42,13 @@ title: RuBees Cheat Sheet
 
 
 <div class="class-method-list" markdown="1">
-### Symbol
+### [Symbol](http://ruby-for-beginners.rubymonstas.org/built_in_classes/symbols.html)
 - `to_s`
 
 </div>
 
 <div class="class-method-list" markdown="1">
-### Array
+### [Array](http://ruby-for-beginners.rubymonstas.org/built_in_classes/arrays.html)
 
 - `+`
 - `*`
@@ -72,7 +72,7 @@ title: RuBees Cheat Sheet
 
 
 <div class="class-method-list" markdown="1">
-### Hash
+### [Hash](http://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html)
 - `[]`
 - [`keys`](https://ruby-doc.org/core-2.3.1/Hash.html#method-i-keys)
 - [`values`](https://ruby-doc.org/core-2.3.1/Hash.html#method-i-values)
