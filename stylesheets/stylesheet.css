@@ -163,7 +163,8 @@ pre, code {
   background-color: #fff;
 
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-size: 14px;
+  font-size: 20px;
+  line-height: 1.6em;
 
   border-radius: 2px;
   -moz-border-radius: 2px;
@@ -266,8 +267,8 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
-  padding: 20px 10px;
+  /* max-width: 640px; */
+  padding: 20px 3em;
   margin: 0 auto;
 }
 
@@ -296,7 +297,8 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding-top: 50px;
+  padding-bottom: 30px;
 }
 
 #project_title {
@@ -422,4 +424,28 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+/* Cheat sheet */
+
+#cheatsheet-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.class-method-list {
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    padding-left: 1rem;
+    width: 400px;
+    background-color: #ccccd0;
+}
+
+.class-method-list ul {
+    padding-left: 0;
+}
+
+.class-method-list li {
+    list-style-type: none;
 }
